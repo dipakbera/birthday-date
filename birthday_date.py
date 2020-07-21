@@ -1,3 +1,4 @@
+#finding the birhday out of 7 days in a week.
 print("Welcome!")
 import datetime
 print("Enter your birthday in the format like YYYY/MM/DD\n(as an example 1998/03/06)")
